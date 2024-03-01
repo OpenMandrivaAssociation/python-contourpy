@@ -15,6 +15,7 @@ BuildRequires:	pkgconfig(python3)
 BuildRequires:	python3egg(setuptools)
 BuildRequires:	python3dist(setuptools-scm)
 BuildRequires:	python3dist(meson-python)
+BuildRequires:	pkgconfig(pybind11)
 
 %description
 A small C++ header library which makes it easier to write Python
